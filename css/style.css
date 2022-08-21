@@ -1,0 +1,137 @@
+*{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.icon{
+    background-color: #937D32;
+    height: 46px;
+    width: 46px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bg-img1{  
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+}
+
+.bg-img2{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.bg-img3{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-1.jpg);
+    background-size: cover;
+
+}
+.bg-img4{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-2.jpg);
+    background-size: cover;
+}
+
+.bg-img5{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-3.jpg);
+    background-size: cover;
+}
+
+.fs-20{font-size: 20px;}
+.fs-48{font-size: 48px;}
+.fs-88{font-size: 88px;}
+
+
+.py-200{
+    padding-top: 280px;
+    padding-bottom: 280px;
+}
+.py-100{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.py-150{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.pt-100{padding-top: 100px;}
+
+
+
+
+
+
+.fw-700{font-weight: 700;}
+.fw-900{font-weight: 800;}
+
+.bg-color-1d809f{background-color: #1D809F;}
+.bg-color-1d809f-:hover{
+    background-color: #196d87;
+    transition: .5s;
+}
+.bg-black{background-color: #212529;}
+.bg-white{background-color: white;}
+
+
+.bg-black-:hover{
+    background-color:#535b5b;
+    transition: .5s;
+    
+}
+.bg-087AB2-hover:hover{
+    background-color:#06466b;
+    transition: .7s;
+    padding: 0% 10%;
+    background-repeat: no-repeat;
+}
+.bg-white-hover:hover{
+    background-color: white;
+    transition: .5s;
+    color: black !important;
+}
+
+.bg-black-hover:hover{
+    background-color: black  !important;
+    transition: .5s;
+    color: white !important;
+}
+.hover1:hover{ color: yellow; }
+
+
+
+
+.text-EBB808{color: #EBB808;}
+.text-grey{color: grey;}
+.text-BCD9E2{color: #BCD9E2;}
+.text-1d809f{color: #1d809f;}
+.text-black{color: black;}
+
+
+.br-5{border-radius: 5px;}
+.br-50{border-radius: 50%;}
+
+.circle-46{
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 15px 
+}
+
+.service-icon {
+    background-color: #fff;
+    color: #1D809F;
+    height: 7rem;
+    width: 7rem;
+    display: block;
+    line-height: 7.5rem;
+    font-size: 2.25rem;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+.rounded-circle {
+    border-radius: 50% !important;
+  }
